@@ -1,0 +1,2 @@
+include ':app', ':cryptodor'
+rootProject.name='cryptodor-test'
